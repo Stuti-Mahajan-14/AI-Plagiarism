@@ -1,0 +1,2 @@
+It analyses text for plagiarism using AI. User can upload PDFs/DOCX or enter text directly.  It calculates language model perplexity and burstiness score, to identify whether the content is AI-generated content or not. I have built it with Streamlit, Transformers, PyPDF2, NLTK, Plotly etc  ![Screenshot 2024-04-28 192842](https://github.com/Stuti-Mahajan-14/AI-Plagiarism/assets/145571242/b4fc3209-dfe8-499b-adc2-8e5e98c31a2c) ![Screenshot 2024-04-28 193143](https://github.com/Stuti-Mahajan-14/AI-Plagiarism/assets/145571242/8202ea8c-5097-4aef-a71d-f07e87439806)
+ 
